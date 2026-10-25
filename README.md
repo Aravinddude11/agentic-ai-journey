@@ -33,7 +33,7 @@ Updated every day. ✅ = done, 🔄 = in progress, ⬜ = not started.
 
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
-| 01  | _Your first topic here_ | ⬜ | [notes](./week-01-foundations/day-01/notes.md) |
+| 01  | What is an Agent | ✅ | [notes](./week-01-foundations/day-01/notes.md) |
 
 > 💡 Add a new row to this table every time you finish a day.
 
