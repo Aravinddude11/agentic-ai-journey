@@ -34,6 +34,10 @@ Updated every day. ✅ = done, 🔄 = in progress, ⬜ = not started.
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
 | 01  | What is an Agent | ✅ | [notes](./week-01-foundations/day-01/notes.md) |
+<<<<<<< HEAD
+=======
+| 02  | What are LLMs | ✅ | [notes](./week-01-foundations/day-02/notes.md) |
+>>>>>>> 11e6c30 (Day 2: What are LLMs, notes and digram files are added)
 
 > 💡 Add a new row to this table every time you finish a day.
 
