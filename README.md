@@ -35,6 +35,7 @@ Updated every day. ✅ = done, 🔄 = in progress, ⬜ = not started.
 |-----|-------|--------|-------|
 | 01  | What is an Agent | ✅ | [notes](./week-01-foundations/day-01/notes.md) |
 | 02  | What are LLMs | ✅ | [notes](./week-01-foundations/day-02/notes.md) |
+| 03  | Messages and Special Tokens | ✅ | [notes](./week-01-foundations/day-03/notes.md) |
 
 > 💡 Add a new row to this table every time you finish a day.
 
